@@ -1,6 +1,6 @@
 # CariesXrays: Enhancing Caries Detection in Hospital-scale Panoramic Dental X-rays via Feature Pyramid Contrastive Learning
 
-<img src="./images/Overview.png" width="600">
+<img src="./FPCL-main.jpg" width="600">
 
 
 ### Abstract:
