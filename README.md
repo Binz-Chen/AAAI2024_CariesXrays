@@ -34,23 +34,19 @@ that allows free usage for research purposes. Please pay attention to this proje
 * CariesXrays dataset will follow this item at upload
 * FPCL Training：python train.py
 
-
-<img src="./FPCL_pre.jpg" width="800">
-
-
 ### Please consider citing the following paper if you find this work useful for your research.
 
 ```
 @inproceedings{chen2024fpcl,
   title={CariesXrays: Enhancing Caries Detection in Hospital-scale Panoramic Dental X-rays via Feature Pyramid Contrastive Learning},
-  author={Chen, Bingzhi and Fu, Sisi and Liu, Yishu and  Pan, Jiahui and Lu, Guangming and Zhang, Zheng },
+  author={Chen, Bingzhi and Fu, Sisi and Liu, Yishu and  Pan, Jiahui and Lu, Guangming and Darrenzz },
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
   pages={xxx--xxx},
   year={2024},
   organization={AAAI Press}
 }
 ```
-If you have any question, please contact us: chenbingzhi@m.scnu.edu.cn, or darrenzz219@gmail.com.
+If you have any questions, please contact us: chenbingzhi@m.scnu.edu.cn, or darrenzz219@gmail.com.
 
 
 
