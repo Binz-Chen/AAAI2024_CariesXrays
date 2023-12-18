@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>img</folder>
+<filename>025982.jpg</filename>
+<path>F:\datasets\labeled\source6000-label1-all\all-6021\img\025982.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>2648</width>
+    <height>1280</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>Decay</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>667</xmin>
+        <ymin>766</ymin>
+        <xmax>757</xmax>
+        <ymax>856</ymax>
+    </bndbox>
+</object>
+</annotation>

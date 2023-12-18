@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>test</folder>
+<filename>025950.jpg</filename>
+<path>F:\datasets\labeled\source6000-label1-all\all-6021\test\025950.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>2440</width>
+    <height>1280</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>Decay</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>536</xmin>
+        <ymin>769</ymin>
+        <xmax>660</xmax>
+        <ymax>856</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>Decay</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1536</xmin>
+        <ymin>827</ymin>
+        <xmax>1669</xmax>
+        <ymax>936</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>Decay</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>663</xmin>
+        <ymin>793</ymin>
+        <xmax>733</xmax>
+        <ymax>864</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>Decay</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1817</xmin>
+        <ymin>772</ymin>
+        <xmax>1888</xmax>
+        <ymax>847</ymax>
+    </bndbox>
+</object>
+</annotation>

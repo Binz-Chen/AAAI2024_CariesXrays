@@ -1,0 +1,29 @@
+<?xml version="1.0" ?><annotation>
+  <folder>img</folder>
+  <filename>000420.jpg</filename>
+  <size>
+    <width>2648</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Decay</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1804</xmin>
+      <ymin>537</ymin>
+      <xmax>1901</xmax>
+      <ymax>629</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Decay</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>763</xmin>
+      <ymin>526</ymin>
+      <xmax>859</xmax>
+      <ymax>622</ymax>
+    </bndbox>
+  </object>
+</annotation>
