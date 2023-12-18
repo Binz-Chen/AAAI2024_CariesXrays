@@ -1,7 +1,7 @@
 # CariesXrays: Enhancing Caries Detection in Hospital-scale Panoramic Dental X-rays via Feature Pyramid Contrastive Learning
 
 
-<img src="./FPCL_main.jpg" width="400">
+<img src="./FPCL_main.jpg" width="800">
 
 
 ### Abstract:
@@ -23,9 +23,20 @@ Dental caries has been widely recognized as one of the most prevalent chronic di
 https://drive.google.com/file/d/1bHaUjqPWrL-OXM2-IPl5gBBgTs0TfULT/view?usp=drive_link
 ```
 
+### Download CariesXrays_Dataset:
+
+```
+Our newly-established CariesXrays dataset will be made publicly available upon publication of the paper with a license
+that allows free usage for research purposes. Please pay attention to this project.
+```
+
 ### Running the code on CariesXrays (VOC-style):
 * CariesXrays dataset will follow this item at upload
 * FPCL Training：python train.py
+
+
+<img src="./FPCL_pre.jpg" width="800">
+
 
 ### Please consider citing the following paper if you find this work useful for your research.
 
