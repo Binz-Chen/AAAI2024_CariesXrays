@@ -1,7 +1,7 @@
 # CariesXrays: Enhancing Caries Detection in Hospital-scale Panoramic Dental X-rays via Feature Pyramid Contrastive Learning
 
 
-<img src="./FPCL_main.pdf" width="400">
+<img src="./FPCL_main.jpg" width="400">
 
 
 ### Abstract:
@@ -15,7 +15,7 @@ Dental caries has been widely recognized as one of the most prevalent chronic di
 * Ubuntu or Centos
 * detail in `requirements.txt`
 
-<img src="./FPCL_subFig.pdf" width="400">
+<img src="./FPCL_subFig.jpg" width="400">
 
 
 ### Download test models to weight:
