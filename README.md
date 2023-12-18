@@ -43,7 +43,7 @@ that allows free usage for research purposes. Please pay attention to this proje
 ```
 @inproceedings{chen2024fpcl,
   title={CariesXrays: Enhancing Caries Detection in Hospital-scale Panoramic Dental X-rays via Feature Pyramid Contrastive Learning},
-  author={Chen, Bingzhi and Fu, Sisi and Liu, Yishu and  Pan, Jiahui and Lu, Guangming and  Zhang, Zheng },
+  author={Chen, Bingzhi and Fu, Sisi and Liu, Yishu and  Pan, Jiahui and Lu, Guangming and Zhang, Zheng },
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
   pages={xxx--xxx},
   year={2024},
