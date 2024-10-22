@@ -26,7 +26,7 @@ https://drive.google.com/file/d/1bHaUjqPWrL-OXM2-IPl5gBBgTs0TfULT/view?usp=drive
 ### Download CariesXrays_Dataset:
 
 ```
-Our newly-established CariesXrays dataset will be made publicly available at: https://drive.google.com/drive/folders/1qWL2f0A-vf91StHxs24eoiFDyuoHEh4N?usp=drive_link.
+https://drive.google.com/drive/folders/1qWL2f0A-vf91StHxs24eoiFDyuoHEh4N?usp=drive_link.
 ```
 
 ### Running the code on CariesXrays (VOC-style):
@@ -36,13 +36,14 @@ Our newly-established CariesXrays dataset will be made publicly available at: ht
 ### Please consider citing the following paper if you find this work useful for your research.
 
 ```
-@inproceedings{chen2024fpcl,
-  title={CariesXrays: Enhancing Caries Detection in Hospital-scale Panoramic Dental X-rays via Feature Pyramid Contrastive Learning},
-  author={Chen, Bingzhi and Fu, Sisi and Liu, Yishu and  Pan, Jiahui and Lu, Guangming and Darrenzz },
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
-  pages={xxx--xxx},
-  year={2024},
-  organization={AAAI Press}
+@inproceedings{chen2024cariesxrays,
+  title={CariesXrays: Enhancing caries detection in hospital-scale panoramic dental X-rays via feature pyramid contrastive learning},
+  author={Chen, Bingzhi and Fu, Sisi and Liu, Yishu and Pan, Jiahui and Lu, Guangming and Zhang, Zheng},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={20},
+  pages={21940--21948},
+  year={2024}
 }
 ```
 If you have any questions, please contact us: chenbingzhi@m.scnu.edu.cn, or darrenzz219@gmail.com.
