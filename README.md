@@ -26,8 +26,7 @@ https://drive.google.com/file/d/1bHaUjqPWrL-OXM2-IPl5gBBgTs0TfULT/view?usp=drive
 ### Download CariesXrays_Dataset:
 
 ```
-Our newly-established CariesXrays dataset will be made publicly available upon publication of the paper with a license
-that allows free usage for research purposes. Please pay attention to this project.
+Our newly-established CariesXrays dataset is made publicly available at：https://drive.google.com/drive/folders/1qWL2f0A-vf91StHxs24eoiFDyuoHEh4N?usp=drive_link
 ```
 
 ### Running the code on CariesXrays (VOC-style):
