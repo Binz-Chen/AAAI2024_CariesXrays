@@ -26,7 +26,7 @@ https://drive.google.com/file/d/1bHaUjqPWrL-OXM2-IPl5gBBgTs0TfULT/view?usp=drive
 ### Download CariesXrays_Dataset:
 
 ```
-https://drive.google.com/drive/folders/1qWL2f0A-vf91StHxs24eoiFDyuoHEh4N?usp=drive_link.
+https://drive.google.com/drive/folders/1qWL2f0A-vf91StHxs24eoiFDyuoHEh4N?usp=drive_link
 ```
 
 ### Running the code on CariesXrays (VOC-style):
